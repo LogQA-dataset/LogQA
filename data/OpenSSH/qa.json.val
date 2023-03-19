@@ -1,0 +1,18 @@
+{"Question": "What did the user 123 have a failed to enter?", "Answer": "password", "RawLog": "Failed password for invalid user 123 from 183.62.140.253 port 49870 ssh2"}
+{"Question": "What is the location of the user postgres1?", "Answer": "187.141.143.180", "RawLog": "Invalid user postgres1 from 187.141.143.180"}
+{"Question": "What is the name of the function that is used to determine if a user is redhat?", "Answer": "input_userauth_request", "RawLog": "input_userauth_request: invalid user redhat [preauth]"}
+{"Question": "What is the main issue with a user?", "Answer": "authentication", "RawLog": "Disconnecting: Too many authentication failures for admin [preauth]"}
+{"Question": "What did the port 52276 ssh2 fail to provide?", "Answer": "password", "RawLog": "Failed password for invalid user oracle from 187.141.143.180 port 52276 ssh2"}
+{"Question": "Did you receive an identification string from 177.79.82.136?", "Answer": "not", "RawLog": "Did not receive identification string from 177.79.82.136"}
+{"Question": "What is the status of the user redhat?", "Answer": "Invalid", "RawLog": "Invalid user redhat from 187.141.143.180"}
+{"Question": "What port does ubuntu use to access a user?", "Answer": "35697", "RawLog": "Failed password for invalid user ubuntu from 187.141.143.180 port 35697 ssh2"}
+{"Question": "What port does the user have to use to get support?", "Answer": "33310", "RawLog": "Failed password for invalid user support from 103.207.39.16 port 33310 ssh2"}
+{"Question": "What is the name of the function that causes an invalid user boot?", "Answer": "input_userauth_request", "RawLog": "input_userauth_request: invalid user boot [preauth]"}
+{"Question": "What is the port number of PlcmSpIp?", "Answer": "51966", "RawLog": "Failed password for invalid user PlcmSpIp from 103.99.0.122 port 51966 ssh2"}
+{"Question": "What is the name of the function that returns an invalid user ingrid?", "Answer": "input_userauth_request", "RawLog": "input_userauth_request: invalid user ingrid [preauth]"}
+{"Question": "What port did the user 0 fail to enter?", "Answer": "49811", "RawLog": "Failed password for invalid user 0 from 5.188.10.180 port 49811 ssh2"}
+{"Question": "What port did the port 52631 fail to connect to?", "Answer": "ssh2", "RawLog": "Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2"}
+{"Question": "What is the main issue with a user?", "Answer": "Too many authentication", "RawLog": "Disconnecting: Too many authentication failures for admin [preauth]"}
+{"Question": "What did the port 37999 ssh2 fail to send?", "Answer": "password", "RawLog": "Failed password for root from 183.62.140.253 port 37999 ssh2"}
+{"Question": "What is the status of the user ghost?", "Answer": "Invalid", "RawLog": "Invalid user ghost from 187.141.143.180"}
+{"Question": "What is the name of the function that returns an invalid user eoor?", "Answer": "input_userauth_request", "RawLog": "input_userauth_request: invalid user eoor [preauth]"}

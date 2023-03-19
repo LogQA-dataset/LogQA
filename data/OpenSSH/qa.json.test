@@ -1,0 +1,58 @@
+{"Question": "What is the IP address of the user admin?", "Answer": "119.4.203.64", "RawLog": "Invalid user admin from 119.4.203.64"}
+{"Question": "What is the name of the function that causes an invalid user butter?", "Answer": "input_userauth_request", "RawLog": "input_userauth_request: invalid user butter [preauth]"}
+{"Question": "What did the user fail to enter on the port 42393 ssh2?", "Answer": "password", "RawLog": "message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2]"}
+{"Question": "What is the port number of the invalid user user?", "Answer": "52683", "RawLog": "Failed password for invalid user user from 103.99.0.122 port 52683 ssh2"}
+{"Question": "What is the status of user nagios?", "Answer": "Invalid", "RawLog": "Invalid user nagios from 187.141.143.180"}
+{"Question": "What is the status of the user ubuntu?", "Answer": "Invalid", "RawLog": "Invalid user ubuntu from 187.141.143.180"}
+{"Question": "What is the status of the user cyrus?", "Answer": "Invalid", "RawLog": "Invalid user cyrus from 187.141.143.180"}
+{"Question": "What was the result of the connection reset?", "Answer": "failed:", "RawLog": "fatal: Write failed: Connection reset by peer [preauth]"}
+{"Question": "What is the name of the admin group that has too many authentication failures?", "Answer": "[preauth]", "RawLog": "Disconnecting: Too many authentication failures for admin [preauth]"}
+{"Question": "Did I receive an identification string from 123.235.32.19?", "Answer": "not", "RawLog": "Did not receive identification string from 123.235.32.19"}
+{"Question": "What port did utsims fail to connect to?", "Answer": "41506", "RawLog": "Failed password for invalid user utsims from 112.95.230.3 port 41506 ssh2"}
+{"Question": "What port does ftpuser not have?", "Answer": "62891", "RawLog": "Failed password for invalid user ftpuser from 103.99.0.122 port 62891 ssh2"}
+{"Question": "What is the URL of the site that is considered invalid?", "Answer": "187.141.143.180", "RawLog": "Invalid user www from 187.141.143.180"}
+{"Question": "What is the port number of the webmaster?", "Answer": "38926", "RawLog": "Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2"}
+{"Question": "What is the IP address of the user chen?", "Answer": "202.100.179.208", "RawLog": "Invalid user chen from 202.100.179.208"}
+{"Question": "Did I receive an identification string from 103.207.39.16?", "Answer": "not", "RawLog": "Did not receive identification string from 103.207.39.16"}
+{"Question": "What is the status of the user pi?", "Answer": "Invalid", "RawLog": "Invalid user pi from 103.99.0.122"}
+{"Question": "What did chen fail to get?", "Answer": "password", "RawLog": "Failed password for invalid user chen from 202.100.179.208 port 32484 ssh2"}
+{"Question": "What port does the user have to use to access the oracle?", "Answer": "47782", "RawLog": "Failed password for invalid user oracle from 183.62.140.253 port 47782 ssh2"}
+{"Question": "What port does cheng have a failed password for?", "Answer": "32891", "RawLog": "Failed password for invalid user cheng from 202.100.179.208 port 32891 ssh2"}
+{"Question": "What is the IP address of the invalid user test9?", "Answer": "52.80.34.196", "RawLog": "Invalid user test9 from 52.80.34.196"}
+{"Question": "What database did not have a password?", "Answer": "mysql", "RawLog": "Failed password for mysql from 187.141.143.180 port 51060 ssh2"}
+{"Question": "What is the location of the user jay?", "Answer": "187.141.143.180", "RawLog": "Invalid user jay from 187.141.143.180"}
+{"Question": "What did zhangyan not have?", "Answer": "password", "RawLog": "Failed password for invalid user zhangyan from 183.62.140.253 port 33521 ssh2"}
+{"Question": "What did the port 53584 ssh2 fail to send?", "Answer": "password", "RawLog": "Failed password for root from 112.95.230.3 port 53584 ssh2"}
+{"Question": "What is the location of the user that is invalid for postgres?", "Answer": "from", "RawLog": "Invalid user postgres from 187.141.143.180"}
+{"Question": "What is the current location of the user that is not valid for ubuntu?", "Answer": "187.141.143.180", "RawLog": "Invalid user ubuntu from 187.141.143.180"}
+{"Question": "What is the status of the user from 187.141.143.180?", "Answer": "Invalid", "RawLog": "Invalid user www from 187.141.143.180"}
+{"Question": "What is the name of the ruser that indicates rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om?", "Answer": "root", "RawLog": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root"}
+{"Question": "What is the IP address of the user monitor?", "Answer": "103.99.0.122", "RawLog": "Invalid user monitor from 103.99.0.122"}
+{"Question": "What is the status of the user monitor?", "Answer": "Invalid", "RawLog": "Invalid user monitor from 103.99.0.122"}
+{"Question": "What is the status of the user PlcmSpIp?", "Answer": "Invalid", "RawLog": "Invalid user PlcmSpIp from 103.99.0.122"}
+{"Question": "What port did sandeep fail to connect to?", "Answer": "49316", "RawLog": "Failed password for invalid user sandeep from 88.147.143.242 port 49316 ssh2"}
+{"Question": "What did the user 0101 not have?", "Answer": "password", "RawLog": "Failed password for invalid user  0101 from 5.188.10.180 port 36279 ssh2"}
+{"Question": "What did the port 47337 ssh2 fail to provide?", "Answer": "password", "RawLog": "Failed password for invalid user guest from 5.188.10.180 port 47337 ssh2"}
+{"Question": "What is the port number of the invalid user monitor?", "Answer": "59812", "RawLog": "Failed password for invalid user monitor from 103.99.0.122 port 59812 ssh2"}
+{"Question": "What did postgres1 fail to give to an invalid user?", "Answer": "password", "RawLog": "Failed password for invalid user postgres1 from 187.141.143.180 port 45073 ssh2"}
+{"Question": "What is the status of the user ted from 187.141.143.180?", "Answer": "Invalid", "RawLog": "Invalid user ted from 187.141.143.180"}
+{"Question": "Did I receive an identification string from 5.188.10.180?", "Answer": "not", "RawLog": "Did not receive identification string from 5.188.10.180"}
+{"Question": "What did matlab fail to send to the user?", "Answer": "password", "RawLog": "Failed password for invalid user matlab from 52.80.34.196 port 46199 ssh2"}
+{"Question": "What did the port 53492 ssh2 fail to provide?", "Answer": "password", "RawLog": "Failed password for invalid user operator from 103.99.0.122 port 53492 ssh2"}
+{"Question": "What did cheng fail to get?", "Answer": "password", "RawLog": "Failed password for invalid user cheng from 202.100.179.208 port 32891 ssh2"}
+{"Question": "What port did the user jay use to access the server?", "Answer": "60259", "RawLog": "Failed password for invalid user jay from 187.141.143.180 port 60259 ssh2"}
+{"Question": "What is the address of the user 123?", "Answer": "183.62.140.253", "RawLog": "Invalid user 123 from 183.62.140.253"}
+{"Question": "What is the port number of the ingrid that was not valid?", "Answer": "58682", "RawLog": "Failed password for invalid user ingrid from 187.141.143.180 port 58682 ssh2"}
+{"Question": "Did not receive what string from 123.235.32.19?", "Answer": "identification", "RawLog": "Did not receive identification string from 123.235.32.19"}
+{"Question": "What program failed to connect to the port 59266?", "Answer": "uucp", "RawLog": "Failed password for uucp from 195.154.37.122 port 59266 ssh2"}
+{"Question": "What is the status of user nagios1?", "Answer": "Invalid", "RawLog": "Invalid user nagios1 from 187.141.143.180"}
+{"Question": "What happens to the connection when it is 60.2.12.12?", "Answer": "closed", "RawLog": "Connection closed by 60.2.12.12 [preauth]"}
+{"Question": "What is the status of user sandeep?", "Answer": "Invalid", "RawLog": "Invalid user sandeep from 88.147.143.242"}
+{"Question": "What port did ssh2 fail for?", "Answer": "55495", "RawLog": "Failed none for invalid user 0 from 185.190.58.151 port 55495 ssh2"}
+{"Question": "What port did the webmaster fail to use?", "Answer": "38926", "RawLog": "Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2"}
+{"Question": "What happens to the session for user fztu?", "Answer": "opened", "RawLog": "pam_unix(sshd:session): session opened for user fztu by (uid=0)"}
+{"Question": "What is the status of user 0101?", "Answer": "Invalid", "RawLog": "Invalid user  0101 from 5.188.10.180"}
+{"Question": "What is the status of user test2?", "Answer": "Invalid", "RawLog": "Invalid user test2 from 187.141.143.180"}
+{"Question": "What port did a failed password for root come from?", "Answer": "50719", "RawLog": "Failed password for root from 106.5.5.195 port 50719 ssh2"}
+{"Question": "What is the location of the invalid user test2?", "Answer": "187.141.143.180", "RawLog": "Invalid user test2 from 187.141.143.180"}
+{"Question": "What program failed to connect to the port 65454?", "Answer": "uucp", "RawLog": "Failed password for uucp from 103.99.0.122 port 65454 ssh2"}

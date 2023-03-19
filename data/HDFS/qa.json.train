@@ -1,0 +1,148 @@
+{"Question": "What is the status of the block blk_-6369730481066968769?", "Answer": "terminating", "RawLog": "PacketResponder 1 for block blk_-6369730481066968769 terminating"}
+{"Question": "What did I do with the block blk_-3276232266876914214?", "Answer": "Received", "RawLog": "Received block blk_-3276232266876914214 of size 67108864 from /10.250.7.146"}
+{"Question": "Where is the block blk_-1492402439215451727 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir25/blk_-1492402439215451727", "RawLog": "Deleting block blk_-1492402439215451727 file /mnt/hadoop/dfs/data/current/subdir25/blk_-1492402439215451727"}
+{"Question": "What was the size of blk_3587508140051953248?", "Answer": "67108864", "RawLog": "Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84"}
+{"Question": "What is the name of the component that terminates block blk_4886940526690879848?", "Answer": "PacketResponder", "RawLog": "PacketResponder 1 for block blk_4886940526690879848 terminating"}
+{"Question": "What is the number of PacketResponder for block blk_-3802183646922512795 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-3802183646922512795 terminating"}
+{"Question": "What is the name of the component that is used to terminate a block blk_38865049064139660?", "Answer": "PacketResponder 1", "RawLog": "PacketResponder 1 for block blk_38865049064139660 terminating"}
+{"Question": "Where was the block blk_7679838117000095334 received from?", "Answer": "/10.251.30.85", "RawLog": "Received block blk_7679838117000095334 of size 67108864 from /10.251.30.85"}
+{"Question": "What succeeded for blk_-4980916519894289629?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_-4980916519894289629"}
+{"Question": "What is the status of the packet response 2 for block blk_8229193803249955061?", "Answer": "terminating", "RawLog": "PacketResponder 2 for block blk_8229193803249955061 terminating"}
+{"Question": "What is the status of the packet response 2?", "Answer": "terminating", "RawLog": "PacketResponder 2 for block blk_-1148756466197125339 terminating"}
+{"Question": "Where is the block blk_826351419727053015 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015", "RawLog": "Deleting block blk_826351419727053015 file /mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015"}
+{"Question": "What was the size of blk_-5704899712662113150?", "Answer": "67108864", "RawLog": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229"}
+{"Question": "What is the starting thread to transfer block blk_4292382298896622412 to?", "Answer": "10.250.15.198:50010", "RawLog": "10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010"}
+{"Question": "What is the number of PacketResponder for block blk_5912213716795619450 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_5912213716795619450 terminating"}
+{"Question": "Where was the block blk_9212264480425680329 received?", "Answer": "/10.251.123.1", "RawLog": "Received block blk_9212264480425680329 of size 67108864 from /10.251.123.1"}
+{"Question": "What is the block blk_-3384560576963801177 Served to?", "Answer": "/10.250.6.214", "RawLog": "10.250.6.214:50010 Served block blk_-3384560576963801177 to /10.250.6.214"}
+{"Question": "Where was the block blk_6730979070070986233 received from?", "Answer": "/10.251.90.239", "RawLog": "Received block blk_6730979070070986233 of size 67108864 from /10.251.90.239"}
+{"Question": "What is the name of the function that terminates block blk_-4229375751333894621?", "Answer": "PacketResponder", "RawLog": "PacketResponder 0 for block blk_-4229375751333894621 terminating"}
+{"Question": "What is the number of the PacketResponder for block blk_-5852844080027817147 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_-5852844080027817147 terminating"}
+{"Question": "What is the result of the block blk_3958940914408609637?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_3958940914408609637 terminating"}
+{"Question": "What happened to block blk_120277101968534224?", "Answer": "Received", "RawLog": "Received block blk_120277101968534224 of size 67108864 from /10.251.122.65"}
+{"Question": "Where is the block blk_1781953582842324563 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563", "RawLog": "Deleting block blk_1781953582842324563 file /mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563"}
+{"Question": "Where was the block blk_-5195432543794777448 from?", "Answer": "/10.250.10.6", "RawLog": "Received block blk_-5195432543794777448 of size 67108864 from /10.250.10.6"}
+{"Question": "What happened to block blk_8302956190102508375?", "Answer": "Received", "RawLog": "Received block blk_8302956190102508375 of size 67108864 from /10.251.109.236"}
+{"Question": "What is the name of the packet that terminates block blk_-6766351519628312408?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_-6766351519628312408 terminating"}
+{"Question": "What did I do with the block blk_-71429470616906355?", "Answer": "Received", "RawLog": "Received block blk_-71429470616906355 of size 67108864 from /10.250.19.16"}
+{"Question": "What is the number of the PacketResponder for block blk_3160319368100972992 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_3160319368100972992 terminating"}
+{"Question": "What was the block blk_8591104451552720112 Served to?", "Answer": "/10.250.11.194", "RawLog": "10.250.11.194:50010 Served block blk_8591104451552720112 to /10.250.11.194"}
+{"Question": "What block is deleting?", "Answer": "blk_1781953582842324563", "RawLog": "Deleting block blk_1781953582842324563 file /mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563"}
+{"Question": "What is the blockMap updated to?", "Answer": "10.250.11.85:50010", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.11.85:50010 is added to blk_2377150260128098806 size 67108864"}
+{"Question": "What is the result of the block blk_679168189072909208?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_679168189072909208 terminating"}
+{"Question": "What is the name of the packet that terminates block blk_-2466006073687914843?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_-2466006073687914843 terminating"}
+{"Question": "What is the number of PacketResponder for block blk_3278280638950561822 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_3278280638950561822 terminating"}
+{"Question": "What is the action of deleting a block of a file?", "Answer": "Deleting", "RawLog": "Deleting block blk_-8383503596684323017 file /mnt/hadoop/dfs/data/current/subdir26/blk_-8383503596684323017"}
+{"Question": "What block was received from 10.251.214.112?", "Answer": "blk_5402003568334525940", "RawLog": "Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112"}
+{"Question": "What is the action that will delete the block blk_9173199815015538212?", "Answer": "Deleting", "RawLog": "Deleting block blk_9173199815015538212 file /mnt/hadoop/dfs/data/current/subdir24/blk_9173199815015538212"}
+{"Question": "What block was Served to 10.250.19.227:50010?", "Answer": "blk_3979872751691718643", "RawLog": "10.250.19.227:50010 Served block blk_3979872751691718643 to /10.250.19.227"}
+{"Question": "What is the result of the block blk_2089955821703690032?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_2089955821703690032 terminating"}
+{"Question": "What is the name of the packet that is used to terminate a block blk_8229193803249955061?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_8229193803249955061 terminating"}
+{"Question": "What succeeded for blk_3894335463008345041?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_3894335463008345041"}
+{"Question": "What is the number of PacketResponder for block blk_5017373558217225674 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_5017373558217225674 terminating"}
+{"Question": "What is the status of the block blk_1927336911952959118?", "Answer": "terminating", "RawLog": "PacketResponder 1 for block blk_1927336911952959118 terminating"}
+{"Question": "What was the block blk_3905759687686730625 to?", "Answer": "/10.251.31.180", "RawLog": "10.251.31.180:50010 Served block blk_3905759687686730625 to /10.251.31.180"}
+{"Question": "Where is the block blk_-8484827087450439270 file located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270", "RawLog": "Deleting block blk_-8484827087450439270 file /mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270"}
+{"Question": "What is the result of the block blk_165707910410871749?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_165707910410871749 terminating"}
+{"Question": "What happened to the block blk_-2452477352812192142?", "Answer": "Received", "RawLog": "Received block blk_-2452477352812192142 of size 67108864 from /10.250.7.244"}
+{"Question": "What was the block blk_-8674089929114017279 to?", "Answer": "/10.250.14.38", "RawLog": "10.250.14.38:50010 Served block blk_-8674089929114017279 to /10.250.14.38"}
+{"Question": "What is the number of the PacketResponder for block blk_-4229375751333894621 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_-4229375751333894621 terminating"}
+{"Question": "What happened to block blk_-9190864897806028230?", "Answer": "Received", "RawLog": "Received block blk_-9190864897806028230 of size 67108864 from /10.251.214.130"}
+{"Question": "What is the number of the PacketResponder for block blk_5018765878120211503 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_5018765878120211503 terminating"}
+{"Question": "What is the name of the packet that terminates block blk_-5442040196315589272?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_-5442040196315589272 terminating"}
+{"Question": "Where is the block blk_84838473254499625 file located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir51/blk_8483848473254499625", "RawLog": "Deleting block blk_8483848473254499625 file /mnt/hadoop/dfs/data/current/subdir51/blk_8483848473254499625"}
+{"Question": "What is the number of PacketResponder for block blk_-3339018122410311668 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-3339018122410311668 terminating"}
+{"Question": "What did the block blk_-7526945448667194862 do?", "Answer": "Received", "RawLog": "Received block blk_-7526945448667194862 of size 67108864 from /10.251.203.80"}
+{"Question": "NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to what?", "Answer": "blk_7128370237687728475", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864"}
+{"Question": "What happened to block blk_-5861636720645142679?", "Answer": "Received", "RawLog": "Received block blk_-5861636720645142679 of size 67108864 from /10.251.70.211"}
+{"Question": "What was the result of the verification?", "Answer": "succeeded", "RawLog": "Verification succeeded for blk_-2827716238972737794"}
+{"Question": "What is the blockMap updated to?", "Answer": "10.251.203.80:50010", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.80:50010 is added to blk_7888946331804732825 size 67108864"}
+{"Question": "What is the action of deleting a block of a file?", "Answer": "Deleting", "RawLog": "Deleting block blk_-8484827087450439270 file /mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270"}
+{"Question": "What was the status of the verification for blk_-1547954353065580372?", "Answer": "succeeded", "RawLog": "Verification succeeded for blk_-1547954353065580372"}
+{"Question": "What is the status of the block blk_-8108913101671416218?", "Answer": "terminating", "RawLog": "PacketResponder 1 for block blk_-8108913101671416218 terminating"}
+{"Question": "What happened to block blk_-5309211894896608429?", "Answer": "Received", "RawLog": "Received block blk_-5309211894896608429 of size 67108864 from /10.251.202.181"}
+{"Question": "What did I do with the block blk_-7029628814943626474?", "Answer": "Received", "RawLog": "Received block blk_-7029628814943626474 of size 67108864 from /10.250.7.230"}
+{"Question": "What is the result of the block blk_-1387034299358896632?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_-1387034299358896632 terminating"}
+{"Question": "What is the status of the packet response for block blk_-5073870177832699716?", "Answer": "terminating", "RawLog": "PacketResponder 1 for block blk_-5073870177832699716 terminating"}
+{"Question": "What happened to the block blk_-518701095493827363?", "Answer": "Received", "RawLog": "Received block blk_-518701095493827363 of size 67108864 from /10.251.214.67"}
+{"Question": "Where was the block blk_-6811519872198278365 from?", "Answer": "/10.250.6.4", "RawLog": "Received block blk_-6811519872198278365 of size 67108864 from /10.250.6.4"}
+{"Question": "What is the blockMap address to blk_-476906696485288376?", "Answer": "10.250.5.237:50010", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.5.237:50010 is added to blk_-476906696485288376 size 67108864"}
+{"Question": "What is the name of the packet that terminates block blk_572492839287299681?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_572492839287299681 terminating"}
+{"Question": "What was the block blk_5454332143498402824 to?", "Answer": "/10.250.15.67", "RawLog": "10.251.71.97:50010 Served block blk_5454332143498402824 to /10.250.15.67"}
+{"Question": "What is the number of the PacketResponder for block blk_3070718541088657475 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_3070718541088657475 terminating"}
+{"Question": "Where is the block blk_8303413189200230139 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139", "RawLog": "Deleting block blk_8303413189200230139 file /mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139"}
+{"Question": "What did I do with the block blk_-1846853350696018836?", "Answer": "Received", "RawLog": "Received block blk_-1846853350696018836 of size 67108864 from /10.250.15.67"}
+{"Question": "Where was the block blk_8829027411458566099 from?", "Answer": "/10.251.38.214", "RawLog": "Received block blk_8829027411458566099 of size 67108864 from /10.251.38.214"}
+{"Question": "What is the number of PacketResponder for block blk_-5073870177832699716 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-5073870177832699716 terminating"}
+{"Question": "What succeeded for blk_6996194389878584395?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_6996194389878584395"}
+{"Question": "What happened to block blk_-3455521536483250153?", "Answer": "Received", "RawLog": "Received block blk_-3455521536483250153 of size 67108864 from /10.251.106.37"}
+{"Question": "Where was the block blk_6746178639682808096 from?", "Answer": "/10.251.125.174", "RawLog": "Received block blk_6746178639682808096 of size 67108864 from /10.251.125.174"}
+{"Question": "What was the size of blk_-8241093737585222406?", "Answer": "67108864", "RawLog": "Received block blk_-8241093737585222406 of size 67108864 from /10.250.5.161"}
+{"Question": "What did you get while serving blk_8466246428293623262?", "Answer": "exception", "RawLog": "10.251.199.19:50010:Got exception while serving blk_8466246428293623262 to /10.251.106.37:"}
+{"Question": "Where was the block blk_-1440254020029439248 from?", "Answer": "/10.251.30.85", "RawLog": "Received block blk_-1440254020029439248 of size 67108864 from /10.251.30.85"}
+{"Question": "What is the result of the block blk_3160319368100972992?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_3160319368100972992 terminating"}
+{"Question": "What is the number of PacketResponder for block blk_3755116621101133849 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_3755116621101133849 terminating"}
+{"Question": "What did I do with the block blk_3304535870056962597?", "Answer": "Received", "RawLog": "Received block blk_3304535870056962597 of size 67108864 from /10.251.203.166"}
+{"Question": "What is the size of the block blk_-5704899712662113150?", "Answer": "67108864", "RawLog": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229"}
+{"Question": "What did I do with the block blk_-4067446915270471579?", "Answer": "Received", "RawLog": "Received block blk_-4067446915270471579 of size 25933924 from /10.251.110.8"}
+{"Question": "Where is the block blk_-8775602795571523802 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802", "RawLog": "Deleting block blk_-8775602795571523802 file /mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802"}
+{"Question": "What did the block blk_-967145856473901804 do?", "Answer": "Received", "RawLog": "Received block blk_-967145856473901804 of size 67108864 from /10.250.6.191"}
+{"Question": "What is the number of the PacketResponder for block blk_-6952295868487656571 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_-6952295868487656571 terminating"}
+{"Question": "What block was Served to 10.251.194.213:50010?", "Answer": "blk_-7724713468912166542", "RawLog": "10.251.194.213:50010 Served block blk_-7724713468912166542 to /10.251.203.80"}
+{"Question": "What is the action that will delete the block blk_7206839389762980382?", "Answer": "Deleting", "RawLog": "Deleting block blk_7206839389762980382 file /mnt/hadoop/dfs/data/current/subdir61/blk_7206839389762980382"}
+{"Question": "What is the size of the blockMap?", "Answer": "67108864", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864"}
+{"Question": "What is the action that is done to block blk_5905689738251144455?", "Answer": "Deleting", "RawLog": "Deleting block blk_5905689738251144455 file /mnt/hadoop/dfs/data/current/blk_5905689738251144455"}
+{"Question": "What is the number of PacketResponder for block blk_-1527267659500322006 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-1527267659500322006 terminating"}
+{"Question": "What happened to block blk_-5974833545991408899?", "Answer": "Received", "RawLog": "Received block blk_-5974833545991408899 of size 67108864 from /10.251.31.180"}
+{"Question": "What is the number of the PacketResponder for block blk_-9132218772786220159 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_-9132218772786220159 terminating"}
+{"Question": "What was the status of the verification for blk_774612454978154966?", "Answer": "succeeded", "RawLog": "Verification succeeded for blk_774612454978154966"}
+{"Question": "What is the number of PacketResponder for block blk_-8108913101671416218 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-8108913101671416218 terminating"}
+{"Question": "What is the action that will delete the block blk_-1754204887541031211?", "Answer": "Deleting", "RawLog": "Deleting block blk_-1754204887541031211 file /mnt/hadoop/dfs/data/current/subdir58/blk_-1754204887541031211"}
+{"Question": "What is used to terminate block blk_2111886617384066018?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_2111886617384066018 terminating"}
+{"Question": "What is the action that will delete the block blk_5806397523737304814?", "Answer": "Deleting", "RawLog": "Deleting block blk_5806397523737304814 file /mnt/hadoop/dfs/data/current/subdir34/blk_5806397523737304814"}
+{"Question": "What block was Served to 10.250.13.240?", "Answer": "blk_-3134225108208373949", "RawLog": "10.250.13.240:50010 Served block blk_-3134225108208373949 to /10.250.13.240"}
+{"Question": "What is the result of the block blk_-6952295868487656571?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_-6952295868487656571 terminating"}
+{"Question": "What is the status of the block blk_-2680500627064966252?", "Answer": "terminating", "RawLog": "PacketResponder 1 for block blk_-2680500627064966252 terminating"}
+{"Question": "What succeeded for blk_3141363517520802396?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_3141363517520802396"}
+{"Question": "What did I do with block blk_1064470652608359218?", "Answer": "Received", "RawLog": "Received block blk_1064470652608359218 of size 67108864 from /10.251.39.242"}
+{"Question": "What did I do with the block blk_-684595390732854503?", "Answer": "Received", "RawLog": "Received block blk_-684595390732854503 of size 67108864 from /10.250.6.191"}
+{"Question": "What is the action that will delete the block blk_561417755647618727?", "Answer": "Deleting", "RawLog": "Deleting block blk_561417755647618727 file /mnt/hadoop/dfs/data/current/subdir4/blk_561417755647618727"}
+{"Question": "What did I do with block blk_7016884347337429710?", "Answer": "Received", "RawLog": "Received block blk_7016884347337429710 of size 67108864 from /10.251.194.129"}
+{"Question": "What happened to block blk_5402003568334525940?", "Answer": "Received", "RawLog": "Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112"}
+{"Question": "Where is the block blk_-8898274302731129139 file located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139", "RawLog": "Deleting block blk_-8898274302731129139 file /mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139"}
+{"Question": "What is the result of the block blk_-8093500164295459838?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_-8093500164295459838 terminating"}
+{"Question": "What succeeded for blk_-2827716238972737794?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_-2827716238972737794"}
+{"Question": "What did I do with the block blk_6730979070070986233?", "Answer": "Received", "RawLog": "Received block blk_6730979070070986233 of size 67108864 from /10.251.90.239"}
+{"Question": "What did I do with block blk_4755566011267050000?", "Answer": "Received", "RawLog": "Received block blk_4755566011267050000 of size 67108864 from /10.251.75.79"}
+{"Question": "What was the status of the verification for blk_1150231966878829887?", "Answer": "succeeded", "RawLog": "Verification succeeded for blk_1150231966878829887"}
+{"Question": "What is the action of deleting a block of a file?", "Answer": "Deleting", "RawLog": "Deleting block blk_-8144387882075572886 file /mnt/hadoop/dfs/data/current/subdir42/blk_-8144387882075572886"}
+{"Question": "What is the action that will delete the block blk_7360639743953947587?", "Answer": "Deleting", "RawLog": "Deleting block blk_7360639743953947587 file /mnt/hadoop/dfs/data/current/subdir35/blk_7360639743953947587"}
+{"Question": "What is the blockMap updated to?", "Answer": "10.251.110.8:50010", "RawLog": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.110.8:50010 is added to blk_8015913224713045110 size 67108864"}
+{"Question": "What did I do with the block blk_-8523968015014407246?", "Answer": "Received", "RawLog": "Received block blk_-8523968015014407246 of size 67108864 from /10.251.214.225"}
+{"Question": "What succeeded for blk_-8050165297538775793?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_-8050165297538775793"}
+{"Question": "What did I do with block blk_3463540868626173125?", "Answer": "Received", "RawLog": "Received block blk_3463540868626173125 of size 67108864 from /10.251.30.134"}
+{"Question": "Where was the block blk_-6464892000340112134 received from?", "Answer": "/10.250.5.161", "RawLog": "Received block blk_-6464892000340112134 of size 67108864 from /10.250.5.161"}
+{"Question": "What is the number of PacketResponder for block blk_8060713381303305129 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_8060713381303305129 terminating"}
+{"Question": "What is the result of the block blk_-6500549130351529113?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_-6500549130351529113 terminating"}
+{"Question": "What happened to the block blk_-2094397855762091248?", "Answer": "Received", "RawLog": "Received block blk_-2094397855762091248 of size 67108864 from /10.251.126.83"}
+{"Question": "What was the block blk_-2901225370888235702 to?", "Answer": "/10.251.91.84", "RawLog": "10.251.67.4:50010 Served block blk_-2901225370888235702 to /10.251.91.84"}
+{"Question": "What is the name of the packet that terminates block blk_-8745453424063341007?", "Answer": "PacketResponder", "RawLog": "PacketResponder 1 for block blk_-8745453424063341007 terminating"}
+{"Question": "What is the number of the PacketResponder for block blk_6809155287484296510 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_6809155287484296510 terminating"}
+{"Question": "What is the status of the packet response 2?", "Answer": "terminating", "RawLog": "PacketResponder 2 for block blk_-6766351519628312408 terminating"}
+{"Question": "What was the result of the verification for blk_-4980916519894289629?", "Answer": "succeeded", "RawLog": "Verification succeeded for blk_-4980916519894289629"}
+{"Question": "What is the number of the PacketResponder for block blk_679168189072909208 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_679168189072909208 terminating"}
+{"Question": "What is the action that will delete the block blk_-8848810702648406400?", "Answer": "Deleting", "RawLog": "Deleting block blk_-8848810702648406400 file /mnt/hadoop/dfs/data/current/subdir11/blk_-8848810702648406400"}
+{"Question": "Where is the block blk_-1082541280306680938 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938", "RawLog": "Deleting block blk_-1082541280306680938 file /mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938"}
+{"Question": "What happened to block blk_-265588615173040885?", "Answer": "Received", "RawLog": "Received block blk_-265588615173040885 of size 67108864 from /10.251.215.70"}
+{"Question": "What is the number of PacketResponder for block blk_-26568864070436835 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-26568864070436835 terminating"}
+{"Question": "What was the size of blk_9212264480425680329?", "Answer": "67108864", "RawLog": "Received block blk_9212264480425680329 of size 67108864 from /10.251.123.1"}
+{"Question": "What is the name of the function that terminates block blk_-7436749154361133879?", "Answer": "PacketResponder", "RawLog": "PacketResponder 0 for block blk_-7436749154361133879 terminating"}
+{"Question": "What happened to block blk_-3457731723401426942?", "Answer": "Served", "RawLog": "10.251.74.79:50010 Served block blk_-3457731723401426942 to /10.251.74.79"}
+{"Question": "What happened to block blk_6329639726609402522?", "Answer": "Received", "RawLog": "Received block blk_6329639726609402522 of size 67108864 from /10.251.107.19"}
+{"Question": "What did the block blk_-8241093737585222406 do?", "Answer": "Received", "RawLog": "Received block blk_-8241093737585222406 of size 67108864 from /10.250.5.161"}
+{"Question": "What is the number of the PacketResponder for block blk_7791237942696729620 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_7791237942696729620 terminating"}
+{"Question": "What was the size of blk_-2094397855762091248?", "Answer": "67108864", "RawLog": "Received block blk_-2094397855762091248 of size 67108864 from /10.251.126.83"}
+{"Question": "What is the name of the function that is used to terminate a block blk_-6952295868487656571?", "Answer": "PacketResponder", "RawLog": "PacketResponder 0 for block blk_-6952295868487656571 terminating"}
+{"Question": "What is the status of the packet response 2 for block blk_-6670958622368987959?", "Answer": "terminating", "RawLog": "PacketResponder 2 for block blk_-6670958622368987959 terminating"}
+{"Question": "What happened to block blk_-3845286823494684378?", "Answer": "Received", "RawLog": "Received block blk_-3845286823494684378 of size 67108864 from /10.251.107.196"}
+{"Question": "What is the action that will delete the block blk_5075966182561035053?", "Answer": "Deleting", "RawLog": "Deleting block blk_5075966182561035053 file /mnt/hadoop/dfs/data/current/subdir53/blk_5075966182561035053"}

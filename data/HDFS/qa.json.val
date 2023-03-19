@@ -1,0 +1,24 @@
+{"Question": "What did you get while serving blk_8376667364205250596?", "Answer": "exception", "RawLog": "10.251.126.255:50010:Got exception while serving blk_8376667364205250596 to /10.251.91.159:"}
+{"Question": "What was the block number from 10.251.91.229?", "Answer": "blk_-5704899712662113150", "RawLog": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229"}
+{"Question": "What is the result of the block blk_9093049293972551787?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_9093049293972551787 terminating"}
+{"Question": "What is the block blk_2038610753592374847 Served to?", "Answer": "/10.250.18.114", "RawLog": "10.251.67.225:50010 Served block blk_2038610753592374847 to /10.250.18.114"}
+{"Question": "What is the number of PacketResponder for block blk_4886940526690879848 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_4886940526690879848 terminating"}
+{"Question": "What did I do with the block blk_-9089815063425241739?", "Answer": "Received", "RawLog": "Received block blk_-9089815063425241739 of size 67108864 from /10.251.126.255"}
+{"Question": "What did I do with block blk_8291449241650212794?", "Answer": "Received", "RawLog": "Received block blk_8291449241650212794 of size 67108864 from /10.251.89.155"}
+{"Question": "What was the size of blk_-7526945448667194862?", "Answer": "67108864", "RawLog": "Received block blk_-7526945448667194862 of size 67108864 from /10.251.203.80"}
+{"Question": "What is the number of PacketResponder for block blk_-4937215748597091532 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-4937215748597091532 terminating"}
+{"Question": "What is used to terminate block blk_-8389657728641837382?", "Answer": "PacketResponder", "RawLog": "PacketResponder 2 for block blk_-8389657728641837382 terminating"}
+{"Question": "What is the number of PacketResponder for block blk_-4196449318426994195 terminating?", "Answer": "1", "RawLog": "PacketResponder 1 for block blk_-4196449318426994195 terminating"}
+{"Question": "What is the action that will delete the block blk_2708206493147801743?", "Answer": "Deleting", "RawLog": "Deleting block blk_2708206493147801743 file /mnt/hadoop/dfs/data/current/subdir15/blk_2708206493147801743"}
+{"Question": "Where was the block blk_3587508140051953248 received?", "Answer": "/10.251.42.84", "RawLog": "Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84"}
+{"Question": "What is the result of the block blk_7791237942696729620?", "Answer": "terminating", "RawLog": "PacketResponder 0 for block blk_7791237942696729620 terminating"}
+{"Question": "What is the status of the packet response 2?", "Answer": "terminating", "RawLog": "PacketResponder 2 for block blk_8229193803249955061 terminating"}
+{"Question": "What did I do with block blk_7851643274522055587?", "Answer": "Received", "RawLog": "Received block blk_7851643274522055587 of size 67108864 from /10.251.214.112"}
+{"Question": "What is the number of the PacketResponder for block blk_-1250775350296476256 terminating?", "Answer": "0", "RawLog": "PacketResponder 0 for block blk_-1250775350296476256 terminating"}
+{"Question": "What was the block blk_3087787567144441647 Served to?", "Answer": "/10.251.91.84", "RawLog": "10.250.11.194:50010 Served block blk_3087787567144441647 to /10.251.91.84"}
+{"Question": "Where is the block blk_-4295805058711840933 located?", "Answer": "/mnt/hadoop/dfs/data/current/subdir0/blk_-4295805058711840933", "RawLog": "Deleting block blk_-4295805058711840933 file /mnt/hadoop/dfs/data/current/subdir0/blk_-4295805058711840933"}
+{"Question": "What was the block blk_2866275036574950116 to?", "Answer": "/10.250.11.53", "RawLog": "10.251.122.65:50010 Served block blk_2866275036574950116 to /10.250.11.53"}
+{"Question": "What is the name of the component that terminates block blk_-5073870177832699716?", "Answer": "PacketResponder", "RawLog": "PacketResponder 1 for block blk_-5073870177832699716 terminating"}
+{"Question": "What happened to block blk_4031738712701565209?", "Answer": "Received", "RawLog": "Received block blk_4031738712701565209 of size 67108864 from /10.251.199.150"}
+{"Question": "What succeeded for blk_-1547954353065580372?", "Answer": "Verification", "RawLog": "Verification succeeded for blk_-1547954353065580372"}
+{"Question": "What happened to block blk_-2082401934988378573?", "Answer": "Received", "RawLog": "Received block blk_-2082401934988378573 of size 67108864 from /10.251.214.112"}
